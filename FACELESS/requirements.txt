@@ -1,0 +1,9 @@
+opencv-python>=4.6.0
+opencv-contrib-python>=4.6.0
+face_recognition>=1.3.0
+dlib>=19.24.0
+numpy
+pillow
+
+# Optional: For CUDA/GPU detection verification
+# torch>=2.0.0  # Uncomment if you want to verify CUDA availability
